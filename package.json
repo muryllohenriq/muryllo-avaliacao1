@@ -1,0 +1,9 @@
+{
+  "name": "desafio-calculadora",
+  "version": "1.0.0",
+  "author": "Muryllo",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
